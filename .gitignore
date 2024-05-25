@@ -1,0 +1,27 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+venv/
+*.env
+
+# Django
+*.log
+*.pot
+*.pyc
+local_settings.py
+
+# Database
+*.sqlite3
+
+# Static files
+/staticfiles/
+
+# Media files
+/media/
+
+# Compiled Python files
+*.pyc
+
+# Backup files
+*~
